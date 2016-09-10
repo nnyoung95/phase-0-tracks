@@ -1,0 +1,18 @@
+.main {
+	position: relative;
+	top: 200px;
+	left: 285px;
+}
+
+#glasses {
+	position: absolute;
+	left: 338px;
+	top: 305px;
+}
+
+#hat {
+	position: absolute;
+	left: 285px;
+	top: 105px;
+	color: #006400;
+}
