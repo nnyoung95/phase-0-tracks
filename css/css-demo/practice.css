@@ -1,0 +1,15 @@
+div#contact {
+	font-size: .8em;
+	}
+
+.job {
+	background-color: #e9e5dc;
+	}
+
+.list {
+	font-size: .8em;
+	}
+
+ul > li {
+	font-style: oblique;
+	}
