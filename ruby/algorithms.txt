@@ -1,0 +1,32 @@
+Robot elevator:
+
+-press arrow button depending on which direction is desired for travel : Up or Down
+	-wait on elevator to arrive
+	-wait on eleavator doors to open
+		-enter elevator
+		-view number buttons for flooring options
+			-decipher which floor destination is on
+			-select floor of destination
+	-wait on elevator doors to close
+		-enjoy elevator music as elevator travels
+	-wait until arrival and elevator doors open
+-walk outside of elevator doors
+-find destination upon that floor
+
+Shoe Tying:
+
+-Find shoes
+	-make sure they have strings
+		-if no strings:
+			-slip on
+		-if strings:
+			-lift tongue of shoe
+			-slip foot into shoe
+			-grasp two srings and pull towards body in order to tighten shoe
+			-make an X with said laces
+			-tuck one string in the bottom of the x and pull to tighten
+			-create two loops with strings
+			-make an X with loops
+			-tuck one loop into bottom of the x and pull to tighten
+	-repeat steps for other shoe
+-enjoy
